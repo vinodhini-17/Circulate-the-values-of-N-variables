@@ -42,7 +42,8 @@ Decide whether to repeat the circulation process for a certain number of iterati
 
 
 ## Output:
-![Alt text](<Screenshot 2023-11-28 220046-1.png>)
+
+![Alt text](<Screenshot 2023-11-28 220046-2.png>)
 
 ## Result:
 
