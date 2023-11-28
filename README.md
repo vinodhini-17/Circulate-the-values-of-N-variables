@@ -43,7 +43,8 @@ Decide whether to repeat the circulation process for a certain number of iterati
 
 ## Output:
 
-![Alt text](<Screenshot 2023-11-28 220046-2.png>)
+![Screenshot 2023-11-28 220046](https://github.com/vinodhini-17/Circulate-the-values-of-N-variables/assets/145742741/42b9711b-f99f-4892-a2ab-c43fbb4ec70d)
+
 
 ## Result:
 
