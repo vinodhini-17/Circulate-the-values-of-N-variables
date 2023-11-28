@@ -47,4 +47,4 @@ Decide whether to repeat the circulation process for a certain number of iterati
 
 ## Result:
 
-Thus the circulating the values of n variables are successfully executed
+Thus the circulating the values of n variables are successfully executed.
